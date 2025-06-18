@@ -27,7 +27,7 @@ export default function Home() {
             data-ai-hint="people discussion"
           />
           <h1 className="text-4xl md:text-5xl font-bold text-primary mb-4">
-            Welcome to Who Said What?
+            Welcome to Who Said What???
           </h1>
           <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
             Create questionnaires, share them with friends, and then test your knowledge by guessing who gave which answer. It's a fun way to see how well you know each other!
